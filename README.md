@@ -1,3 +1,1 @@
-# generic-scratch-make-list
-
-Don't forget to update the project name in LICENSE.md
+# Make a new list in Scratch
