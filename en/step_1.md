@@ -1,14 +1,14 @@
 ## Make a list
 
-+ Click on “Data” in the Scripts tab, then click on “Make a List”.
++ Click on **Data** in the **Scripts** tab, then click on **Make a List**.
 
 ![Make a list](images/make-a-list.png)
 
-+ Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only this sprite. Press OK.
++ Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Press **OK**.
 
 ![List name](images/list-name.png)
 
-+ Once you have created the list, it will be displayed on the stage, or you can untick the list in the Scripts tab to hide it.
++ Once you have created the list, it will be displayed on the stage, or you can untick the list in the **Scripts** tab to hide it.
 
 ![List show/hide](images/list-show-hide.png)
 
