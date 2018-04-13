@@ -1,21 +1,21 @@
-## Fare un elenco
+## Creare una lista
 
-+ Fare clic su | 123_8_0_321 | Dati | 123_9_1_321 | nella scheda Script, quindi fare clic su | 123_8_2_321 | Crea un elenco | 123_9_3_321 |.
++ Nella scheda Script, clicca su **Variabili e Liste**, poi clicca su **Crea una Lista**.
 
-![Fare un elenco](images/make-a-list.png)
+![Creare una lista](images/make-a-list.png)
 
-+ Digita il nome del tuo elenco. Puoi scegliere se desideri che il tuo elenco sia disponibile per tutti gli sprite o solo per uno sprite specifico. Premere | 123_8_0_321 | OK | 123_9_1_321 |.
++ Scrivi il nome della tua lista. Puoi scegliere se rendere la tua lista disponibile per tutti gli sprite o solo per questo sprite. Clicca **OK**.
 
-![Lista nome](images/list-name.png)
+![Nome della lista](images/list-name.png)
 
-+ Una volta creato l'elenco, questo verrà visualizzato sullo stage oppure puoi deselezionare l'elenco nella scheda Script per nasconderlo.
++ Una volta creata la lista, questa verrà visualizzata sullo stage. Puoi nascondere la lista deselezionandola nella scheda Script.
 
-![Elenco mostra / nascondi](images/list-show-hide.png)
+![Mostra/nascondi lista](images/list-show-hide.png)
 
-+ Fare clic su | 123_6_0_321 | + | 123_7_1_321 | in fondo all'elenco per aggiungere elementi e fare clic sulla croce accanto a un elemento per eliminarlo.
++ Fai click su `+` in fondo all'elenco per aggiungere elementi alla tua lista, oppure fai clicca sulla x accanto a un elemento per eliminarlo.
 
-![Elenco mostra / nascondi](images/list-add-delete.png)
+![Mostra/nascondi lista](images/list-add-delete.png)
 
-+ Nuovi blocchi appariranno e ti permetteranno di usare la tua nuova lista nel tuo progetto.
++ Appariranno nuovi blocchi che ti permetteranno di usare la tua nuova lista nel tuo progetto.
 
-![Elenca blocchi](images/list-blocks.png)
+![Blocchi lista](images/list-blocks.png)
