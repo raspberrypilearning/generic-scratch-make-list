@@ -1,6 +1,6 @@
 ---
 title: Maak een lijst
-hero_image: images / banner.png
+hero_image: images/banner.png
 description: Maak een nieuwe lijst
 theme: red
 duration: 1
@@ -12,5 +12,4 @@ interests: ""
 technologies: "scratch"
 site_areas: ""
 steps:
-  - 
-    title: Maak een lijst
+  - title: Maak een lijst
