@@ -1,4 +1,4 @@
-## Machen Sie eine Liste
+## Mache eine Liste
 
 + Klicken Sie auf | 123_8_0_321 | Daten | 123_9_1_321 | Klicken Sie auf der Registerkarte Skripts auf | 123_8_2_321 | Eine Liste erstellen | 123_9_3_321 |.
 
