@@ -4,7 +4,7 @@
 
 ![Creare una lista](images/make-a-list.png)
 
-+ Scrivi il nome della tua lista. Puoi scegliere se rendere la tua lista disponibile per tutti gli sprite o solo per questo sprite. Clicca **OK**.
++ Scrivi il nome della tua lista. Puoi scegliere se rendere la tua lista disponibile per tutti gli sprite o solo per questo sprite. Clicca su **OK**.
 
 ![Nome della lista](images/list-name.png)
 
@@ -18,4 +18,4 @@
 
 + Appariranno nuovi blocchi che ti permetteranno di usare la tua nuova lista nel tuo progetto.
 
-![Blocchi lista](images/list-blocks.png)
+![Blocchi della lista](images/list-blocks.png)
