@@ -1,7 +1,7 @@
 ---
 title: Creare una lista
 hero_image: images/banner.png
-description: Crea una nuova lista
+description: Creare una nuova lista
 theme: red
 duration: 1
 listed: false
@@ -13,4 +13,4 @@ technologies: "scratch"
 site_areas: ""
 steps:
   - 
-    title: Crea una lista
+    title: Creare una lista
