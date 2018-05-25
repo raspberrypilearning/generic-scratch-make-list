@@ -1,6 +1,6 @@
 ## Creați o listă
 
-+ Faceți clic pe **Date** din fila Scripturi, apoi pe **Creează o listă**.
++ Faceți clic pe **Date** din tab-ul Scripturi, apoi pe **Creează o listă**.
 
 ![Creați o listă](images/make-a-list.png)
 
@@ -18,4 +18,4 @@
 
 + Se vor afișa noi blocuri care vă vor permite să utilizați noua dvs. listă în proiect.
 
-![Blocuri listă](images/list-blocks.png)
+![Listă de blocuri](images/list-blocks.png)
