@@ -1,6 +1,6 @@
 ---
 title: Creați o listă
-hero_image: images / banner.png
+hero_image: images/banner.png
 description: Creați o listă nouă
 theme: roșu
 duration: 1
@@ -9,8 +9,8 @@ ingredient: true
 copyedit: true
 curriculum: creator, design-0, programare-0, fiz-comp-0, fabricare-0, comunitate-0
 interests: ""
-technologies: "zgârietură"
-site_areas: ""
+technologies: "scratch"
+site_areas:
 steps:
   - 
     title: Creați o listă
