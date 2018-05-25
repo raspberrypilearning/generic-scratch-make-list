@@ -1,21 +1,21 @@
-## Hacer una lista
+## Crear una lista
 
-+ Haga clic en | 123_8_0_321 | Datos | 123_9_1_321 | en la pestaña Scripts, luego haga clic en | 123_8_2_321 | Hacer una lista | 123_9_3_321 |.
++ En la pestaña Programas, haz clic en **Datos** y luego haz clic en **Crear una lista**.
 
-![Hacer una lista](images/make-a-list.png)
+![Crear una lista](images/make-a-list.png)
 
-+ Escriba el nombre de su lista. Puedes elegir si quieres que tu lista esté disponible para todos los sprites o solo para un sprite específico. Presione | 123_8_0_321 | OK | 123_9_1_321 |.
++ Escribe el nombre de tu lista. Puedes elegir si deseas que tu lista esté disponible para todos los objetos o solo para un objeto determinado. Haz clic en **OK**.
 
-![Lista de nombres](images/list-name.png)
+![Nombre de la lista](images/list-name.png)
 
-+ Una vez que haya creado la lista, se mostrará en el escenario, o puede desmarcar la lista en la pestaña de Scripts para ocultarla.
++ Una vez que hayas creado la lista, esta se mostrará en el escenario, pero puedes ocultarla desmarcándola en la pestaña Programas.
 
-![Lista mostrar / ocultar](images/list-show-hide.png)
+![Mostrar / ocultar la lista](images/list-show-hide.png)
 
-+ Haga clic en | 123_6_0_321 | + | 123_7_1_321 | al final de la lista para agregar elementos, y haga clic en la cruz al lado de un elemento para eliminarlo.
++ Para añadir elementos, haz clic en el signo `+` que está en la parte inferior de la lista, y haz clic en la X que hay al lado de un elemento para eliminarlo.
 
-![Lista mostrar / ocultar](images/list-add-delete.png)
+![Mostrar / ocultar la lista](images/list-add-delete.png)
 
-+ Aparecerán nuevos bloques y le permitirán usar su nueva lista en su proyecto.
++ Aparecerán nuevos bloques que te dejarán usar tu nueva lista en tu proyecto.
 
-![Bloques de lista](images/list-blocks.png)
+![Bloques de la lista](images/list-blocks.png)
