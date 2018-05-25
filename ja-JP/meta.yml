@@ -1,16 +1,16 @@
 ---
 title: リストを作る
-hero_image: images / banner.png
+hero_image: images/banner.png
 description: 新しいリストを作る
-theme: 赤
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: クリエイター、デザイン-0、プログラミング-0、phys-comp-0、製造-0、コミュニティ-0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ""
-technologies: "スクラッチ"
-site_areas: ""
+technologies: "scratch"
+site_areas:
 steps:
   - 
     title: リストを作る
