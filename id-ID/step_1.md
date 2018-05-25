@@ -1,21 +1,21 @@
-## Buat daftar
+## Membuat sebuah daftar
 
-+ Klik **Data** pada tab Scripts, lalu klik **Make a List**.
++ Klik **Data** pada tab Scripts, lalu klik **Buat sebuah Daftar**.
 
-![Buat daftar](images/make-a-list.png)
+![Membuat sebuah daftar](images/make-a-list.png)
 
-+ Ketik nama daftar Anda. Anda dapat memilih apakah Anda ingin daftar Anda tersedia untuk semua sprite, atau hanya sprite tertentu. Tekan **OK**.
++ Ketik nama daftar Kamu. Kamu dapat memilih apakah Kamu ingin daftar Kamu tersedia untuk semua sprite, atau hanya sprite tertentu. Tekan **OK**.
 
-![Daftar nama](images/list-name.png)
+![List name](images/list-name.png)
 
-+ Setelah Anda membuat daftar, itu akan ditampilkan di atas panggung, atau Anda bisa melepaskan daftar di tab Scripts untuk menyembunyikannya.
++ Setelah Kamu membuat daftar, daftar tersebut akan ditampilkan pada Stage, atau Kamu bisa menghapus centang daftar di tab Scripts untuk menyembunyikannya.
 
-![Daftar tampilkan / sembunyikan](images/list-show-hide.png)
+![Tampilkan / sembunyikan daftar](images/list-show-hide.png)
 
 + Klik `+` di bagian bawah daftar untuk menambahkan item, dan klik tanda silang di sebelah item untuk menghapusnya.
 
-![Daftar tampilkan / sembunyikan](images/list-add-delete.png)
+![List show/hide](images/list-add-delete.png)
 
-+ Blok baru akan muncul dan memungkinkan Anda untuk menggunakan daftar baru Anda dalam proyek Anda.
++ Blok baru akan muncul dan memungkinkan Kamu untuk menggunakan daftar baru dalam proyek mu.
 
-![Daftar blok](images/list-blocks.png)
+![List blocks](images/list-blocks.png)
