@@ -1,16 +1,16 @@
 ---
-title: Buat daftar
-hero_image: gambar / banner.png
-description: Buat daftar baru
-theme: merah
+title: Membuat sebuah daftar
+hero_image: images/banner.png
+description: Membuat sebuah daftar baru
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: pencipta, desain-0, pemrograman-0, fisika-comp-0, manufaktur-0, komunitas-0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ""
-technologies: "menggaruk"
-site_areas: ""
+technologies: "scratch"
+site_areas:
 steps:
   - 
-    title: Buat daftar
+    title: Membuat sebuah daftar
