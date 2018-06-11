@@ -1,6 +1,6 @@
-## Make a list
+## إنشاء لائحة
 
-+ Click on **Data** in the Scripts tab, then click on **Make a List**.
++ اضغط على البيانات في خانة المقاطع البرمجية، و من ثم اضغط على إنشاء لائحة.
 
 ![Make a list](images/make-a-list.png)
 
