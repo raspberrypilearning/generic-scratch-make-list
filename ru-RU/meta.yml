@@ -1,7 +1,7 @@
 ---
-title: إنشاء لائحة
+title: Создание списка
 hero_image: images/banner.png
-description: إنشاء لائحة جديدة
+description: Создаем новый список
 theme: red
 duration: 1
 listed: false
@@ -12,4 +12,4 @@ interests: ""
 technologies: "scratch"
 site_areas:
 steps:
-  - title: إنشاء لائحة
+  - title: Создаем список
