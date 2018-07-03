@@ -1,21 +1,21 @@
-## Faça uma lista
+## Faz uma lista
 
-+ Clique no **Dados** na guia Scripts e, em seguida, clique em **Faça uma lista**.
++ Clica em **Dados** no menu Guiões e, em seguida clica em **Criar uma lista**.
 
-![Faça uma lista](images/make-a-list.png)
+![Make a list](images/make-a-list.png)
 
-+ Digite o nome da sua lista. Você pode escolher se deseja que sua lista esteja disponível para todos os sprites ou apenas para um sprite específico. Pressione **OK**.
++ Digita o nome da tua lista. Podes escolher se desejas que a tua lista esteja disponível para todos os actores ou apenas para um actor específico. Pressiona **OK**.
 
-![Lista de nomes](images/list-name.png)
+![List name](images/list-name.png)
 
-+ Depois de criar a lista, ela será exibida no palco, ou você pode desmarcar a lista na guia Scripts para ocultá-la.
++ Depois de criares a lista ela será exibida no palco, ou podes desmarcar a lista no menu Guiões para ocultá-la.
 
-![List show / hide](images/list-show-hide.png)
+![List show/hide](images/list-show-hide.png)
 
-+ Clique no `+` na parte inferior da lista para adicionar itens e clique na cruz ao lado de um item para excluí-lo.
++ Clica em `+` na parte inferior da lista para adicionar itens e clica na cruz ao lado de um item para o remover.
 
-![List show / hide](images/list-add-delete.png)
+![List show/hide](images/list-add-delete.png)
 
-+ Novos blocos aparecerão e permitirão que você use sua nova lista no seu projeto.
++ Aparecerão novos blocos e permitirão que uses a tua nova lista no teu projeto.
 
-![Blocos de listagem](images/list-blocks.png)
+![List blocks](images/list-blocks.png)
