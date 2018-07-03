@@ -1,21 +1,21 @@
-## Gwnewch restr
+## Gwneud rhestr
 
-+ Cliciwch ar **Data** yn y tab Sgriptiau, yna cliciwch ar **Gwnewch Restr**.
++ Clicia ar **Data** yn y tab Sgriptiau, yna clicia ar **Creu Rhestr**.
 
-![Gwnewch restr](images/make-a-list.png)
+![Creu rhestr](images/make-a-list.png)
 
-+ Teipiwch enw'ch rhestr. Gallwch ddewis a hoffech i'ch rhestr fod ar gael i bob sprites, neu i sprite penodol yn unig. Gwasgwch **OK**.
++ Teipia enw dy restr i mewn. Gelli di ddewis a fydd y rhestr ar gael i bob ciplun, neu i giplun penodol yn unig. Clicia **Iawn**.
 
-![Rhestr enw](images/list-name.png)
+![Enw'r rhestr](images/list-name.png)
 
-+ Unwaith y byddwch wedi creu'r rhestr, bydd yn cael ei arddangos ar y llwyfan, neu gallwch ddatgymalu'r rhestr yn y tab Sgriptiau i'w guddio.
++ Ar ôl i ti greu'r rhestr, bydd yn cael ei harddangos ar y llwyfan, neu gelli di ddileu tic y rhestr yn y tab Sgriptiau i'w chuddio.
 
-![Dangos y rhestr / cuddio](images/list-show-hide.png)
+![Dangos/cuddio'r rhestr](images/list-show-hide.png)
 
-+ Cliciwch y `+` ar waelod y rhestr i ychwanegu eitemau, a chliciwch y groes nesaf at eitem i'w ddileu.
++ Clicia ar y `+` ar waelod y rhestr i ychwanegu eitemau, a chlicia ar y groes ar ymyl eitem i'w dileu.
 
-![Dangos y rhestr / cuddio](images/list-add-delete.png)
+![Dangos/cuddio'r rhestr](images/list-add-delete.png)
 
-+ Bydd blociau newydd yn ymddangos ac yn caniatáu i chi ddefnyddio'ch rhestr newydd yn eich prosiect.
++ Bydd blociau newydd yn ymddangos ac yn dy alluogi i ddefnyddio dy restr newydd yn dy brosiect.
 
-![Rhestr blociau](images/list-blocks.png)
+![Blociau'r rhestr](images/list-blocks.png)
