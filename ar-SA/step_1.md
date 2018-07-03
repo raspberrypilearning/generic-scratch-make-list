@@ -1,21 +1,21 @@
 ## إنشاء لائحة
 
-+ اضغط على البيانات في خانة المقاطع البرمجية، و من ثم اضغط على إنشاء لائحة.
++ انقر فوق **البيانات** في علامة تبويب المقاطع البرمجية، ثم انقر فوق **إنشاء لائحة**.
 
-![Make a list](images/make-a-list.png)
+![إنشاء لائحة](images/make-a-list.png)
 
-+ Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Press **OK**.
++ اكتب اسم اللائحة الخاص بك. يمكنك إختيار ما إذا كنت تريد أن تكون اللائحة الخاص بك متاحه لجميع الكائنات، أو لكائن واحد فقط. اضغط على **موافق**.
 
-![List name](images/list-name.png)
+![اللائحة الأسماء](images/list-name.png)
 
-+ Once you have created the list, it will be displayed on the stage, or you can untick the list in the Scripts tab to hide it.
++ بمجرد إنشاء اللائحة، ستظهر على المنصة، أو يمكنك إلغاء تحديد اللائحة من علامة تبويب المقاطع البرمجية لإخفائه.
 
-![List show/hide](images/list-show-hide.png)
+![إظهار/إخفاء اللائحة](images/list-show-hide.png)
 
-+ Click the `+` at the bottom of the list to add items, and click the cross next to an item to delete it.
++ اضغط على `+` في أسفل اللائحة لإضافة عناصر أو كائنات، و اضغط على الإكس بجانب المتغير لحذفة.
 
-![List show/hide](images/list-add-delete.png)
+![إظهار/إخفاء اللائحة](images/list-add-delete.png)
 
-+ New blocks will appear and allow you to use your new list in your project.
++ تعليمات برمجية جديدة ستظهر لك وستمكنك من إستخدام اللائحة في مشروعك.
 
-![List blocks](images/list-blocks.png)
+![اللائحة التعليمات البرمجية](images/list-blocks.png)
