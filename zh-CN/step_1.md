@@ -1,21 +1,21 @@
-## Make a list
+## 创建列表
 
-+ Click on **Data** in the Scripts tab, then click on **Make a List**.
++ 点击脚本标签中的 **数据** ，然后点击 **新建变量**。
 
-![Make a list](images/make-a-list.png)
+![创建列表](images/make-a-list.png)
 
-+ Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Press **OK**.
++ 输入变量的名称。你可以选择你是否希望你的变量可用于所有的角色，或者只有这个角色。按 **确定**。
 
-![List name](images/list-name.png)
+![列表名称](images/list-name.png)
 
-+ Once you have created the list, it will be displayed on the stage, or you can untick the list in the Scripts tab to hide it.
++ 一旦你创建好列表，它会显示在舞台上，或者你可以在脚本选项页中取消列表来隐藏它。
 
-![List show/hide](images/list-show-hide.png)
+![列表 显示/隐藏](images/list-show-hide.png)
 
-+ Click the `+` at the bottom of the list to add items, and click the cross next to an item to delete it.
++ 在列表底部点击`+`符号来增加项目，点击旁边的叉来删除项目。
 
-![List show/hide](images/list-add-delete.png)
+![列表 显示/隐藏](images/list-add-delete.png)
 
-+ New blocks will appear and allow you to use your new list in your project.
++ 新的块会出现，并允许您在项目中使用新的列表。
 
-![List blocks](images/list-blocks.png)
+![列出代码块](images/list-blocks.png)
