@@ -1,21 +1,21 @@
-## 创建列表
+## 创建链表
 
-+ 点击脚本选项卡中的**数据**，然后点击**创建列表**。
++ 点击脚本标签中的 **数据** ，然后点击 **新建链表**。
 
-![Make a list](images/make-a-list.png)
+![创建列表](images/make-a-list.png)
 
-+ 输入你的列表名称。你可以选择让你的列表适用于所有子图，或者仅适用于特定子图。点击**确定**。
++ 输入链表的名称。你可以选择你是否希望你的链表可用于所有的角色，或者只有这个角色。按 **确定**。
 
-![List name](images/list-name.png)
+![列表名称](images/list-name.png)
 
-+ 你创建列表之后，它就会显示在工作区上，或者你可以在脚本选项卡中取消勾选列表来将其隐藏。
++ 一旦你创建好列表，它会显示在舞台上，或者你可以在脚本选项页中取消列表来隐藏它。
 
-![List show/hide](images/list-show-hide.png)
+![链表 显示/隐藏](images/list-show-hide.png)
 
-+ 点击列表底部的 `+` 来添加项目，点击项目旁边的叉号来删除项目。
++ 在链表底部点击`+`符号来增加项目，点击项目旁边的叉来删除它。
 
-[List show/hide](images/list-add-delete.png)
+![链表 显示/隐藏](images/list-add-delete.png)
 
-+ 新的代码块会出现，使你能在项目中使用新列表。
++ 新的块会出现，并允许你在项目中使用你新建的链表。
 
-![List blocks](images/list-blocks.png)
+![列出链表块](images/list-blocks.png)

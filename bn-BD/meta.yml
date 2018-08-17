@@ -1,7 +1,7 @@
 ---
-title: 创建列表
+title: একটা তালিকা তৈরী করা
 hero_image: images/banner.png
-description: 创建新的列表
+description: একটি নতুন তালিকা তৈরি করা
 theme: red
 duration: 1
 listed: false
@@ -12,4 +12,4 @@ interests: ""
 technologies: "scratch"
 site_areas:
 steps:
-  - title: 创建列表
+  - title: একটা তালিকা তৈরী করা
