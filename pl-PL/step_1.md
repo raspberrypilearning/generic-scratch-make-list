@@ -8,7 +8,7 @@
 
 ![Nazwa listy](images/list-name.png)
 
-+ Po utworzeniu listy zostanie ona wyświetlona na scenie lub można ją odznaczać na karcie Skrypty, aby ją ukryć.
++ Po utworzeniu zmiennej zostanie ona wyświetlona na scenie. Możesz też odznaczać ją na karcie Skrypty, aby ją ukryć.
 
 ![Pokaż / ukryj listę](images/list-show-hide.png)
 
