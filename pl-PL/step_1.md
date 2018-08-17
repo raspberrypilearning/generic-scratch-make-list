@@ -4,7 +4,7 @@
 
 ![Zrobić listę](images/make-a-list.png)
 
-+ Wpisz nazwę swojej listy. Możesz wybrać, czy chcesz, aby twoja lista była dostępna dla wszystkich duszków, czy tylko dla konkretnego sprite'a. Naciśnij **OK**.
++ Wpisz nazwę swojej listy. Możesz wybrać, czy chcesz, aby twoja lista była dostępna dla wszystkich duszków, czy tylko dla konkretnego duszka. Naciśnij **OK**.
 
 ![Nazwa listy](images/list-name.png)
 
@@ -12,10 +12,10 @@
 
 ![Pokaż / ukryj listę](images/list-show-hide.png)
 
-+ Kliknij `+` na dole listy, aby dodać elementy, i kliknij krzyżyk obok elementu, aby go usunąć.
++ Kliknij `+` na dole listy, aby dodać elementy, kliknij krzyżyk obok elementu, aby go usunąć.
 
 ![Pokaż / ukryj listę](images/list-add-delete.png)
 
-+ Pojawią się nowe bloki i pozwoli Ci użyć nowej listy w projekcie.
++ Pojawią się nowe bloki i będziesz mógł użyć nowej listy w projekcie.
 
 ![Lista bloków](images/list-blocks.png)
