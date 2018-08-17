@@ -2,7 +2,7 @@
 title: Utwórz listę
 hero_image: images / banner.png
 description: Utwórz nową listę
-theme: czerwony
+theme: red
 duration: 1
 listed: false
 ingredient: true
