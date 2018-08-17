@@ -1,16 +1,16 @@
 ---
-title: একটা তালিকা তৈরী কর
-hero_image: ইমেজ / banner.png
-description: একটি নতুন তালিকা তৈরি করুন
-theme: লাল
+title: একটা তালিকা তৈরী করা
+hero_image: images/banner.png
+description: একটি নতুন তালিকা তৈরি করা
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: স্রষ্টা, নকশা -0, প্রোগ্রামিং -0, পদার্থ-কম্প-0, উৎপাদন-0, কমিউনিটি -২0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ""
-technologies: "আঁচড়ের দাগ"
+technologies: "scratch"
 site_areas:
 steps:
   - 
-    title: একটা তালিকা তৈরী কর
+    title: একটা তালিকা তৈরী করা
