@@ -1,8 +1,8 @@
-## Zrobić listę
+## Utwórz listę
 
 + Kliknij **Dane** na karcie Skrypty, a następnie kliknij **Utwórz listę**.
 
-![Zrobić listę](images/make-a-list.png)
+![Utwórz listę](images/make-a-list.png)
 
 + Wpisz nazwę swojej listy. Możesz wybrać, czy chcesz, aby twoja lista była dostępna dla wszystkich duszków, czy tylko dla konkretnego duszka. Naciśnij **OK**.
 
