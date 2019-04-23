@@ -18,4 +18,4 @@
 
 + New blocks will appear and allow you to use your new list in your project.
 
-![List blocks](images/list-blocks-annotated.png)
+![List blocks](images/list-blocks.png)
